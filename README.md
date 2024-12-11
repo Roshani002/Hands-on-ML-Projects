@@ -10,7 +10,7 @@ Key Steps:
 3. Model Training: Trained multiple models (e.g., Logistic Regression, Decision Trees) to find the most suitable one for the task.
 4. Model Evaluation: Evaluated and tuned the model to maximize accuracy.
 5. Testing: Tested the final model to ensure its effectiveness.
-6. 
+   
 ### 📂 Project 2: Wine Clustering (Clustering Analysis)
 Objective: Perform clustering on the wine dataset to group wines into distinct categories based on their attributes.
 Key Steps:
